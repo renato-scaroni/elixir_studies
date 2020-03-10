@@ -8,3 +8,4 @@ For now the main resources are:
 - [Video tutorial by Thiago Guimarães](https://www.youtube.com/watch?v=EmHfoH3FOM0) [reference repository](https://github.com/thiagogsr/voting)
 - [Elixir school website](https://elixirschool.com/pt/lessons/basics)
 - [Official phoenix website](https://hexdocs.pm/phoenix/up_and_running.html) 
+- [Exercism](https://exercism.io/)
